@@ -10,5 +10,6 @@ public class GinnyGitTestApp
     {
         System.out.println( "Hello World!" );
         System.out.println( "This is Ginnis Test App fo Git!" );
+        System.out.println( "first update by ginni" );
     }
 }
