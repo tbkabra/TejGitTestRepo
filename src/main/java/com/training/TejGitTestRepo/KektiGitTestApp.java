@@ -12,5 +12,6 @@ public class KektiGitTestApp
         System.out.println( "This is Ketkis Test App fo Git!" );
         System.out.println( "New update" );
         System.out.println("one mroe update - ketki - friday the 12th");
+        System.out.println("Happy Sankranti, Lohri and Pongal");
     }
 }
